@@ -97,7 +97,7 @@ class ScheduledTask extends TimerTask {
 		System.out.println("Time is :" + now); // Display current time
 	}
 }
-public class HadingExtractWithScheduler
+public class HeadingExtractWithScheduler
 {
 	 
 	
